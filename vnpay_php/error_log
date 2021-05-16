@@ -1,0 +1,60 @@
+[14-May-2021 11:18:00 Asia/Ho_Chi_Minh] PHP Warning:  require_once(./DB/DBControler.php): failed to open stream: No such file or directory in /home/cuahangd8/public_html/vnpay_php/vnpay_return.php on line 2
+[14-May-2021 11:18:00 Asia/Ho_Chi_Minh] PHP Fatal error:  require_once(): Failed opening required './DB/DBControler.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/cuahangd8/public_html/vnpay_php/vnpay_return.php on line 2
+[14-May-2021 11:26:49 Asia/Ho_Chi_Minh] PHP Warning:  require_once(./DB/DBControler.php): failed to open stream: No such file or directory in /home/cuahangd8/public_html/vnpay_php/vnpay_return.php on line 2
+[14-May-2021 11:26:49 Asia/Ho_Chi_Minh] PHP Fatal error:  require_once(): Failed opening required './DB/DBControler.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/cuahangd8/public_html/vnpay_php/vnpay_return.php on line 2
+[14-May-2021 11:33:50 Asia/Ho_Chi_Minh] PHP Warning:  require_once(./DB/DBControler.php): failed to open stream: No such file or directory in /home/cuahangd8/public_html/vnpay_php/vnpay_return.php on line 2
+[14-May-2021 11:33:50 Asia/Ho_Chi_Minh] PHP Fatal error:  require_once(): Failed opening required './DB/DBControler.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/cuahangd8/public_html/vnpay_php/vnpay_return.php on line 2
+[14-May-2021 11:35:59 Asia/Ho_Chi_Minh] PHP Warning:  require_once(./DB/DBControler.php): failed to open stream: No such file or directory in /home/cuahangd8/public_html/vnpay_php/vnpay_return.php on line 2
+[14-May-2021 11:35:59 Asia/Ho_Chi_Minh] PHP Fatal error:  require_once(): Failed opening required './DB/DBControler.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/cuahangd8/public_html/vnpay_php/vnpay_return.php on line 2
+[14-May-2021 11:41:02 Asia/Ho_Chi_Minh] PHP Warning:  require_once(./DB/DBControler.php): failed to open stream: No such file or directory in /home/cuahangd8/public_html/vnpay_php/vnpay_return.php on line 2
+[14-May-2021 11:41:02 Asia/Ho_Chi_Minh] PHP Fatal error:  require_once(): Failed opening required './DB/DBControler.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/cuahangd8/public_html/vnpay_php/vnpay_return.php on line 2
+[14-May-2021 11:41:44 Asia/Ho_Chi_Minh] PHP Warning:  require_once(./DB/DBControler.php): failed to open stream: No such file or directory in /home/cuahangd8/public_html/vnpay_php/vnpay_return.php on line 2
+[14-May-2021 11:41:44 Asia/Ho_Chi_Minh] PHP Fatal error:  require_once(): Failed opening required './DB/DBControler.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/cuahangd8/public_html/vnpay_php/vnpay_return.php on line 2
+[14-May-2021 11:43:11 Asia/Ho_Chi_Minh] PHP Warning:  require_once(./DB/DBControler.php): failed to open stream: No such file or directory in /home/cuahangd8/public_html/vnpay_php/vnpay_return.php on line 2
+[14-May-2021 11:43:11 Asia/Ho_Chi_Minh] PHP Fatal error:  require_once(): Failed opening required './DB/DBControler.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/cuahangd8/public_html/vnpay_php/vnpay_return.php on line 2
+[14-May-2021 11:44:43 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: vnp_SecureHash in /home/cuahangd8/public_html/vnpay_php/vnpay_return.php on line 21
+[14-May-2021 11:44:43 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: vnp_TxnRef in /home/cuahangd8/public_html/vnpay_php/vnpay_return.php on line 54
+[14-May-2021 11:44:43 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: vnp_Amount in /home/cuahangd8/public_html/vnpay_php/vnpay_return.php on line 59
+[14-May-2021 11:44:43 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: vnp_OrderInfo in /home/cuahangd8/public_html/vnpay_php/vnpay_return.php on line 63
+[14-May-2021 11:44:43 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: vnp_ResponseCode in /home/cuahangd8/public_html/vnpay_php/vnpay_return.php on line 67
+[14-May-2021 11:44:43 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: vnp_TransactionNo in /home/cuahangd8/public_html/vnpay_php/vnpay_return.php on line 71
+[14-May-2021 11:44:43 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: vnp_BankCode in /home/cuahangd8/public_html/vnpay_php/vnpay_return.php on line 75
+[14-May-2021 11:44:43 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: vnp_PayDate in /home/cuahangd8/public_html/vnpay_php/vnpay_return.php on line 79
+[14-May-2021 11:44:49 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: _SESSION in /home/cuahangd8/public_html/vnpay_php/vnpay_return.php on line 88
+[14-May-2021 11:44:49 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cuahangd8/public_html/vnpay_php/vnpay_return.php on line 88
+[14-May-2021 11:44:49 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/cuahangd8/public_html/vnpay_php/vnpay_return.php on line 95
+[14-May-2021 11:44:49 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/cuahangd8/public_html/vnpay_php/vnpay_return.php on line 95
+[14-May-2021 11:44:49 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/cuahangd8/public_html/vnpay_php/vnpay_return.php on line 95
+[14-May-2021 11:44:49 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/cuahangd8/public_html/vnpay_php/vnpay_return.php on line 95
+[14-May-2021 11:44:49 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/cuahangd8/public_html/vnpay_php/vnpay_return.php on line 95
+[14-May-2021 11:44:49 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: connection in /home/cuahangd8/public_html/vnpay_php/vnpay_return.php on line 97
+[14-May-2021 11:44:49 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/cuahangd8/public_html/vnpay_php/vnpay_return.php on line 97
+[14-May-2021 11:44:49 Asia/Ho_Chi_Minh] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/cuahangd8/public_html/vnpay_php/vnpay_return.php on line 98
+[14-May-2021 11:44:49 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: connection in /home/cuahangd8/public_html/vnpay_php/vnpay_return.php on line 103
+[14-May-2021 11:44:49 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/cuahangd8/public_html/vnpay_php/vnpay_return.php on line 103
+[14-May-2021 12:09:12 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: _SESSION in /home/cuahangd8/public_html/vnpay_php/vnpay_return.php on line 53
+[14-May-2021 12:09:12 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cuahangd8/public_html/vnpay_php/vnpay_return.php on line 53
+[14-May-2021 12:13:22 Asia/Ho_Chi_Minh] PHP Warning:  include_once(./Facebook/autoload.php): failed to open stream: No such file or directory in /home/cuahangd8/public_html/DB/fb-login.php on line 3
+[14-May-2021 12:13:22 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening './Facebook/autoload.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/cuahangd8/public_html/DB/fb-login.php on line 3
+[14-May-2021 12:13:22 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class 'Facebook\Facebook' not found in /home/cuahangd8/public_html/DB/fb-login.php:8
+Stack trace:
+#0 /home/cuahangd8/public_html/vnpay_php/vnpay_return.php(4): include()
+#1 {main}
+  thrown in /home/cuahangd8/public_html/DB/fb-login.php on line 8
+[14-May-2021 12:14:07 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: _SESSION in /home/cuahangd8/public_html/vnpay_php/vnpay_return.php on line 58
+[14-May-2021 12:14:07 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cuahangd8/public_html/vnpay_php/vnpay_return.php on line 58
+[14-May-2021 12:20:22 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: _SESSION in /home/cuahangd8/public_html/vnpay_php/vnpay_return.php on line 58
+[14-May-2021 12:20:22 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cuahangd8/public_html/vnpay_php/vnpay_return.php on line 58
+[14-May-2021 12:23:49 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: _SESSION in /home/cuahangd8/public_html/vnpay_php/vnpay_return.php on line 58
+[14-May-2021 12:23:49 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cuahangd8/public_html/vnpay_php/vnpay_return.php on line 58
+[14-May-2021 12:25:08 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: _SESSION in /home/cuahangd8/public_html/vnpay_php/vnpay_return.php on line 58
+[14-May-2021 12:25:08 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cuahangd8/public_html/vnpay_php/vnpay_return.php on line 58
+[14-May-2021 12:32:28 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: _SESSION in /home/cuahangd8/public_html/vnpay_php/vnpay_return.php on line 58
+[14-May-2021 12:32:28 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cuahangd8/public_html/vnpay_php/vnpay_return.php on line 58
+[14-May-2021 12:32:28 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/cuahangd8/public_html/vnpay_php/vnpay_return.php on line 109
+[14-May-2021 12:32:28 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/cuahangd8/public_html/vnpay_php/vnpay_return.php on line 109
+[14-May-2021 12:32:28 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/cuahangd8/public_html/vnpay_php/vnpay_return.php on line 109
+[14-May-2021 12:32:28 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/cuahangd8/public_html/vnpay_php/vnpay_return.php on line 109
+[14-May-2021 12:32:28 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/cuahangd8/public_html/vnpay_php/vnpay_return.php on line 109
+[14-May-2021 12:32:28 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: order_id in /home/cuahangd8/public_html/vnpay_php/vnpay_return.php on line 110
+[14-May-2021 12:32:28 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: order_id in /home/cuahangd8/public_html/vnpay_php/vnpay_return.php on line 116
